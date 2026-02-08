@@ -50,4 +50,8 @@ The dashboard analyzes sales performance, profitability, customer activity, and 
 - Data Visualization  
 
 ## Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
+![Dataset](screenshots/Dataset.png)
+![Power Query](screenshots/PowerQuery.png)
+![Dashboard](screenshots/dashboard.png)
+
+
