@@ -53,15 +53,15 @@ The dashboard analyzes sales performance, profitability, customer activity, and 
 
 ### Dataset
 Raw sales dataset used for analysis and reporting.
-![Dataset](screenshotss/dataset.png)
+![Dataset](screenshotss/Dataset.png)
 
 ### Data Preparation using Power Query
 Data cleaning, transformation, and preparation using Power Query before visualization.
-![Power Query](screenshotss/power-query.png)
+![Power Query](screenshotss/Power-Query.png)
 
 ### Sales Dashboard
 Interactive dashboard presenting sales performance, profit, and customer insights.
-![Sales Dashboard](screenshotss/sales-dashboard.png)
+![Sales Dashboard](screenshotss/Sales-Dashboard.png)
 
 
 
